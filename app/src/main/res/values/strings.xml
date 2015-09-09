@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DatosPersonalesForm</string>
+
+    <string name="string1">Datos Personales</string>
+    <string name="string2">Nombre</string>
+    <string name="string3">Fecha de Nacimiento</string>
+    <string name="string4">Genero</string>
+    <string name="string5">Hombre</string>
+    <string name="string6">Mujer</string>
+    <string name="string7">Siguiente</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="string8">Confirmar Datos</string>
+    <string name="string9">Nombre</string>
+    <string name="string10">Fecha de Nacimiento </string>
+    <string name="string11">Genero</string>
+    <string name="string12">Enviar!</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
